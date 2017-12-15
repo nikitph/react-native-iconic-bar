@@ -9,7 +9,7 @@
 </br>
 
 
-<p align="center"><img src ="https://raw.githubusercontent.com/kis/react-native-air-progress-bar/master/anim.gif" /></p>
+<p align="center"><img src ="https://github.com/nikitph/react-native-iconic-bar/blob/master/iconic.gif" /></p>
 
 <h3 align='center'>Install</h3>
 
