@@ -1,0 +1,45 @@
+{
+  "name": "react-native-iconic-bar",
+  "keywords": [
+    "progress-bar",
+    "react-native",
+    "ios"
+  ],
+  "tags": [
+    "iconic-bar",
+    "react-component",
+    "react-native",
+    "ios",
+    "progress"
+  ],
+  "description": "Animated progress-bar component with customizable icon for React Native",
+  "main": "index.js",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.47.2",
+    "react-native-vector-icons": "^4.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "3.0.1",
+    "jest": "20.0.4",
+    "pre-commit": "^1.2.2",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "rnpm": "^1.9.0",
+    "webpack": "^3.6.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikitph/react-native-iconic-bar"
+  }
+}
