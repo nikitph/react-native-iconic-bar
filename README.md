@@ -11,7 +11,7 @@
 
 <p align="center"><img src ="https://github.com/nikitph/react-native-iconic-bar/blob/master/iconic.gif" /></p>
 
-<h3 align='center'>Install</h3>
+<h3 align='center'>Install--</h3>
 
 ```
 npm install react-native-iconic-bar --save
